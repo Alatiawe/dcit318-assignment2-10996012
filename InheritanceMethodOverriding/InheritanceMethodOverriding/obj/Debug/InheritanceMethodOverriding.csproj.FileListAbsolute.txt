@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\bin\Debug\InheritanceMethodOverriding.exe.config
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\bin\Debug\InheritanceMethodOverriding.exe
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\bin\Debug\InheritanceMethodOverriding.pdb
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\obj\Debug\InheritanceMethodOverriding.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\obj\Debug\InheritanceMethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\obj\Debug\InheritanceMethodOverriding.exe
+C:\Users\LENOVO\source\repos\InheritanceMethodOverriding\InheritanceMethodOverriding\obj\Debug\InheritanceMethodOverriding.pdb
